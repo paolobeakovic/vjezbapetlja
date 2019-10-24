@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\beakovicPaoloVjezbaPetlje\beakovicPaoloVjezbaPetlje\bin\Debug\beakovicPaoloVjezbaPetlje.exe.config
+C:\Users\3.D\source\repos\beakovicPaoloVjezbaPetlje\beakovicPaoloVjezbaPetlje\bin\Debug\beakovicPaoloVjezbaPetlje.exe
+C:\Users\3.D\source\repos\beakovicPaoloVjezbaPetlje\beakovicPaoloVjezbaPetlje\bin\Debug\beakovicPaoloVjezbaPetlje.pdb
+C:\Users\3.D\source\repos\beakovicPaoloVjezbaPetlje\beakovicPaoloVjezbaPetlje\obj\Debug\beakovicPaoloVjezbaPetlje.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\beakovicPaoloVjezbaPetlje\beakovicPaoloVjezbaPetlje\obj\Debug\beakovicPaoloVjezbaPetlje.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\beakovicPaoloVjezbaPetlje\beakovicPaoloVjezbaPetlje\obj\Debug\beakovicPaoloVjezbaPetlje.exe
+C:\Users\3.D\source\repos\beakovicPaoloVjezbaPetlje\beakovicPaoloVjezbaPetlje\obj\Debug\beakovicPaoloVjezbaPetlje.pdb
